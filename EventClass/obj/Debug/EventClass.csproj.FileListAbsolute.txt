@@ -1,0 +1,10 @@
+F:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\obj\Debug\ResolveAssemblyReference.cache
+F:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\bin\Debug\EventClass.exe
+F:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\bin\Debug\EventClass.pdb
+F:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\obj\Debug\EventClass.exe
+F:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\obj\Debug\EventClass.pdb
+D:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\obj\Debug\EventClass.exe
+D:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\obj\Debug\EventClass.pdb
+D:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\bin\Debug\EventClass.exe
+D:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\bin\Debug\EventClass.pdb
+D:\SRC\C#_dir_workspace\Projects\EventClass\EventClass\obj\Debug\ResolveAssemblyReference.cache
